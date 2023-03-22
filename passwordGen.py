@@ -13,7 +13,7 @@ def generatePassword(upper, length):
         if askSure.lower() == "yes":
             print("Generating Password...")
             for i in range(length):
-                password = random.choice(string.ascii_uppercase + string.ascii_lowercase + string.digits)
+                password = random.choice(string.ascii_uppercase + string.ascii_lowercase + string.digits + string.punctuation)
                 print(password, end = "")
         else:
             print("shutting down...")        

@@ -21,3 +21,7 @@ The function uses the random module and the string module to generate a password
 ```
 
 In the first example, a password of length 8 with uppercase letters and digits is generated. In the second example, a password of length 10 with digits only is generated. In the third example, a password of length 12 with lowercase letters, uppercase letters, and digits is generated.
+
+## Possible Improvements
+
+The **EasyPass** function could be improved by adding additional options for including other types of characters in the password, such as symbols or special characters. Additionally, the function could be modified to ensure that the generated password contains at least one of each type of character (lowercase letter, uppercase letter, digit, etc.) to increase the strength of the password.

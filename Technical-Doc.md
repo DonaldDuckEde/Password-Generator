@@ -19,3 +19,5 @@ The function uses the random module and the string module to generate a password
 'flxuGq3rEkTd'
 
 ```
+
+In the first example, a password of length 8 with uppercase letters and digits is generated. In the second example, a password of length 10 with digits only is generated. In the third example, a password of length 12 with lowercase letters, uppercase letters, and digits is generated.

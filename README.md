@@ -10,3 +10,6 @@ We've used the random library to generate random string of characters. And the s
 
 ## Public
 You can use this generator to use in a other program, we will also add a file with a function you can use to generate random string of characters in other programs. And we will add a file on how to use the function.
+
+## Developing
+We are still developing this password generator, so if you find a bug please contact us through GitHub. We would love to make this project better with your help!
